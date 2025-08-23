@@ -3,13 +3,12 @@ class Solution:
         if x<0:
             return False
 
-        reverse_str = ''
         origin_str = str(x)
-        for i in range(-1, -len(origin_str)-1, -1):
-            reverse_str += origin_str[i]
-        
-        if reverse_str == origin_str:
-            return True
-        else:
-            return False
-        
+        for i in range(len(origin_str)//2):
+            ii = len(origin_str) -1 - i
+            e1, e2 = origin_str[i], origin_str[ii]
+            if e1 == e2:
+                continue
+            else:
+                return False
+        return True
