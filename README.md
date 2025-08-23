@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kheedogg/LeetHub/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/kheedogg/LeetHub/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kheedogg/LeetHub/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/kheedogg/LeetHub/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/kheedogg/LeetHub/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
