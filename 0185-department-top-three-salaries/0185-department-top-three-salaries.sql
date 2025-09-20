@@ -4,7 +4,6 @@ with salary_rank as (
         salary,
         dense_rank() over (partition by departmentId order by salary desc) as rnk
     from Employee
-    -- group by 1, 2
 )
 
 select 
