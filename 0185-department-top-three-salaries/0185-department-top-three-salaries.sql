@@ -2,9 +2,9 @@ with salary_rank as (
     select
         departmentId,
         salary,
-        rank() over (partition by departmentId order by salary desc) as rnk
+        dense_rank() over (partition by departmentId order by salary desc) as rnk
     from Employee
-    group by 1, 2
+    -- group by 1, 2
 )
 
 select 
