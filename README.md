@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kheedogg/LeetHub/tree/master/0001-two-sum) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/kheedogg/LeetHub/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/kheedogg/LeetHub/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/kheedogg/LeetHub/tree/master/0185-department-top-three-salaries) |
+## Greedy
+|  |
+| ------- |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+## Sorting
+|  |
+| ------- |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 <!---LeetCode Topics End-->
