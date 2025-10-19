@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kheedogg/LeetHub/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/kheedogg/LeetHub/tree/master/0088-merge-sorted-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kheedogg/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
@@ -69,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kheedogg/LeetHub/tree/master/0088-merge-sorted-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kheedogg/LeetHub/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
