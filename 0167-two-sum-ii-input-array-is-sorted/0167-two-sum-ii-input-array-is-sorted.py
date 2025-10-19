@@ -1,5 +1,6 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        # 중복 숫자의 합으로 target을 만들어내는 경우
         from collections import Counter
         freq = Counter(numbers)
         ans = []
@@ -12,6 +13,7 @@ class Solution:
                         if len(ans) == 2:
                             return ans
 
+        # 서로 다른 숫자의 합으로 target을 만들어내는 경우
         uniq_numbers = list(set(numbers))
         print(uniq_numbers)
         for i in range(len(uniq_numbers)-1):
