@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kheedogg/LeetHub/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kheedogg/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kheedogg/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kheedogg/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kheedogg/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
@@ -84,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kheedogg/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kheedogg/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kheedogg/LeetHub/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kheedogg/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kheedogg/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
