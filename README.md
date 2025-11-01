@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kheedogg/LeetHub/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/kheedogg/LeetHub/tree/master/0231-power-of-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kheedogg/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kheedogg/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kheedogg/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kheedogg/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kheedogg/LeetHub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kheedogg/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kheedogg/LeetHub/tree/master/0001-two-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kheedogg/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kheedogg/LeetHub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kheedogg/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
