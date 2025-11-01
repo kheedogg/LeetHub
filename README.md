@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kheedogg/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kheedogg/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kheedogg/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kheedogg/LeetHub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kheedogg/LeetHub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kheedogg/LeetHub/tree/master/0001-two-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kheedogg/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kheedogg/LeetHub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kheedogg/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kheedogg/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kheedogg/LeetHub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
